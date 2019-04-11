@@ -1,0 +1,28 @@
+{
+  "meetups": [
+    {
+      "imageUrl": "http://www.52superseries.com/wp-content/gallery/2018-sibenik-52-super-series-sailing-week/52SS_180523_NM_0876.jpg",
+      "id": "afajfjadfaadfa323",
+      "title": "Treino",
+      "date": "2019-03-10T02:00:00Z",
+      "location": "Aveiro",
+      "description": "Treino no Avela"
+    },
+    {
+      "imageUrl": "http://www.52superseries.com/wp-content/gallery/2018-sibenik-52-super-series-sailing-week/52SS_180525_NM_2890.jpg",
+      "id": "aadsfhbkhlk1241",
+      "title": "Regata Vigo",
+      "date": "2013-03-10T02:00:00Z",
+      "location": "Vigo",
+      "description": "Regatas em Vigo"
+    },
+    {
+      "imageUrl": "http://www.52superseries.com/wp-content/gallery/2018-sibenik-52-super-series-sailing-week/52SS_180525_NM_3331.jpg",
+      "id": "aadsfhbkhlk1241",
+      "title": "Regata Vigo Inverno",
+      "date": "2013-03-10T02:00:00Z",
+      "location": "Vigo",
+      "description": "Regatas em Vigo"
+    }
+  ]
+}
